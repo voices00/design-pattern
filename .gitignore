@@ -1,0 +1,13 @@
+.idea/*
+.vscode/*
+
+*.exe
+*.exe~
+main.exe
+
+vendor
+
+data/*
+temp/*
+run/*
+images/*
